@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/byndyusofttaskapp/static/css/main.2cce8147.chunk.css",
+    "main.js": "/byndyusofttaskapp/static/js/main.3cba9d93.chunk.js",
+    "main.js.map": "/byndyusofttaskapp/static/js/main.3cba9d93.chunk.js.map",
+    "runtime~main.js": "/byndyusofttaskapp/static/js/runtime~main.c81e98c3.js",
+    "runtime~main.js.map": "/byndyusofttaskapp/static/js/runtime~main.c81e98c3.js.map",
+    "static/js/2.8e918357.chunk.js": "/byndyusofttaskapp/static/js/2.8e918357.chunk.js",
+    "static/js/2.8e918357.chunk.js.map": "/byndyusofttaskapp/static/js/2.8e918357.chunk.js.map",
+    "index.html": "/byndyusofttaskapp/index.html",
+    "precache-manifest.c630090256ad265eaf63f744f56b845e.js": "/byndyusofttaskapp/precache-manifest.c630090256ad265eaf63f744f56b845e.js",
+    "service-worker.js": "/byndyusofttaskapp/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/byndyusofttaskapp/static/css/main.2cce8147.chunk.css.map"
+  }
+}
